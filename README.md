@@ -1,4 +1,4 @@
-# 基于 [fork](https://github.com/wsfe/vue-tree) 做了以下
+# 基于 [fork](https://github.com/wsfe/vue-tree/tree/2.x) 做了以下
 
 优化
 - 支持`node`使用`slot`
